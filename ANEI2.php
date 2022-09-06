@@ -235,7 +235,7 @@
 		function aho() 
 		{   		
 			var jj = document.getElementById('kilos_liquidacion').value;
-			var ap = document.getElementById('aporte1').value;
+			var ap = document.getElementById('aporte').value;
 			var ll = document.getElementById('ahorro').value;
 			var np = document.getElementById('neto_pagar1').value;
 			
